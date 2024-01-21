@@ -1,6 +1,6 @@
 # Introduction : 
 
-Gelato Networks émerge comme le moteur décentralisé de l'écosystème web3, permettant aux développeurs de créer des **Augmented Smart Contracts**, **Automated**, **Gasless** et **Off-Chain Aware** sur toutes les principales blockchains compatibles avec l'EVM, notamment Ethereum, Polygon, Fantom, Arbitrum, BNB Chain, Optimism, et bien d'autres.
+Gelato Networks émerge comme le moteur décentralisé de l'écosystème web3, permettant aux développeurs de créer des **Augmented Smart Contracts**, **Automated** (**Gasless** et **Off-Chain Aware**) sur toutes les principales blockchains compatibles avec l'EVM, notamment Ethereum, Polygon, Fantom, Arbitrum, BNB Chain, Optimism, et bien d'autres.
 
 # Que peut-on faire ?
 
