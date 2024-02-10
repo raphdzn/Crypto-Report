@@ -21,7 +21,7 @@ La transparence du portefeuille d'Ondo est disponible sur leur site au format PD
 
 ## OUSG 
 
-L'OUSG est un token disponible sur les blockchains Ethereum, Polygon et Solana. Il suit la performance de l'ETF BlackRock axé sur les bons du Trésor américain, visant un rendement de 4% avec un profil de risque très faible. Il se **mint** directement sur le site d'Ondo, le minimum d'achat est **100 USDC**, et pour vendre minimum **500 OUSG**. Les frais de l'ETF sont de **0.15%**, frais intermédiaires de **0.15%** au maximum et qui réduit au plus la TVL est grande. Et **0.15%** de frais de gestion par Ondo. (Infos)[https://ondo.finance/ousg]
+L'OUSG est un token disponible sur les blockchains Ethereum, Polygon et Solana. Il suit la performance de l'ETF BlackRock axé sur les bons du Trésor américain, visant un rendement de 4% avec un profil de risque très faible. Il se **mint** directement sur le site d'Ondo, le minimum d'achat est **100 USDC**, et pour vendre minimum **500 OUSG**. Les frais de l'ETF sont de **0.15%**, frais intermédiaires de **0.15%** au maximum et qui réduit au plus la TVL est grande. Et **0.15%** de frais de gestion par Ondo. [Infos](https://ondo.finance/ousg)
 
 ## OMMF
 
