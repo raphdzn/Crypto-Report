@@ -13,8 +13,8 @@ Ondos accorde une attention particulière à la sécurité et collabore étroite
 L'USDY est un stablecoin backer par des bons du trésor américain a court terme. Accessible aux investisseurs individuels et institutionels.
 Il y'a 2 manières d'en obtenir :
 
-1. **On-chain** : En le tradant comme un autre stablcoins standart
-2. **Minting** : En validant le KYC sur le site, puis en déposant des USDC (géré par Coinbase) ou par virement bancaire pour les gros montants. Infos[https://docs.ondo.finance/general-access-products/usdy/basics]
+1. **On-chain** : En le tradant comme un autre stablecoins standard
+2. **Minting** : En validant le KYC sur le site, puis en déposant des USDC (géré par Coinbase) ou par virement bancaire pour les gros montants. [Infos](https://docs.ondo.finance/general-access-products/usdy/basics)
 
 Le **yield** généré par Ondo via les **obligations US** peut-être **claimable** sur le site d'Ondo.
 La transparence du portefeuille d'Ondo est disponible sur leur site au format PDF, actualisé tout les jours.
@@ -26,3 +26,22 @@ L'OUSG est un token disponible sur les blockchains Ethereum, Polygon et Solana. 
 ## OMMF
 
 L'OMMF est un token qui track la performance des **Money Market Funds (MMF)**, catégorie d'investissement les moins risqués au monde avec 5 milliards de dollars sous gestion. Les distributions sont effectués quotidiennement. Ce service n'est pas encore disponible mais les frais de gestion sont à peu près similaire.
+
+## Flux Finance
+
+Flux Finance est un fork assumé de Compound V2 où l'on peut Lend/Borrow des stablescoins de manières classique. Mais on peut aussi borrow des stables en échange de nos OUSG.
+
+# Economie :
+
+Ondos est un protocol durable qui génère des revenus grâce au frais générer par leur service. Je n'ai pas trouvé des informations plus précises a ce sujet.
+
+# L'équipe :
+
+Nathan Allman
+Nathan est le fondateur et directeur général d'Ondo Finance. Il a auparavant travaillé chez Goldman Sachs au sein de l'équipe Digital Assets. Il possède également une expérience en investissement de crédit privé chez Prospect Capital Management. Nathan est titulaire d'un A.B. de l'Université Brown.
+
+Justin Schmidt
+Justin est président et chef de l'exploitation chez Ondo Finance. Il était auparavant responsable de la stratégie chez Talos, ancien responsable des actifs numériques chez Goldman Sachs, et possède plus de 20 ans d'expérience en investissement et sur les marchés de capitaux. Justin est titulaire d'un baccalauréat et d'une maîtrise en informatique du MIT.
+
+Sébastien Dérivaux
+Sébastien est co-fondateur et chef de Steakhouse Financial. Il a précédemment créé Real-World Finance, la première unité centrale de MakerDAO, où il a supervisé les rapports financiers et l'investissement dans les actifs du monde réel. Sébastien est titulaire d'un doctorat en Data Science de l'Université de Strasbourg.
